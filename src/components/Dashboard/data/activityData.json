@@ -1,0 +1,17 @@
+[
+    {
+        "icon": "📈",
+        "value": "1500",
+        "title": "Revenue"
+    },
+    {
+        "icon": "🔄",
+        "value": "250",
+        "title": "Orders"
+    },
+    {
+        "icon": "🛒",
+        "value": "75",
+        "title": "New Customers"
+    }
+]

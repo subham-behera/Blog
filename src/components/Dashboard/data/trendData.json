@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Sales",
+        "amount": "5000",
+        "sign": "+",
+        "change": "+12%",
+        "link": "#"
+    },
+    {
+        "title": "Expenses",
+        "amount": "3000",
+        "sign": "-",
+        "change": "-8%",
+        "link": "#"
+    },
+    {
+        "title": "Profit",
+        "amount": "2000",
+        "sign": "+",
+        "change": "+15%",
+        "link": "#"
+    }
+]
