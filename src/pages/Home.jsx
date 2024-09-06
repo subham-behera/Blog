@@ -46,19 +46,19 @@ function Home() {
                     <h2 className="text-4xl font-bold mb-8">Featured Posts</h2>
                     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                         <Featured 
-                            image="https://via.placeholder.com/400x250" 
+                            image="https://cdn.pixabay.com/photo/2024/06/14/12/15/developer-8829735_1280.jpg" 
                             title="Post Title 1" 
                             description="A brief description of the post content goes here..." 
                             postLink="/post/1" 
                         />
                         <Featured 
-                            image="https://via.placeholder.com/400x250" 
+                            image="https://cdn.pixabay.com/photo/2016/10/15/15/19/digital-1742687_1280.jpg" 
                             title="Post Title 2" 
                             description="Another brief description of the post content goes here..." 
                             postLink="/post/2" 
                         />
                         <Featured 
-                            image="https://via.placeholder.com/400x250" 
+                            image="https://cdn.pixabay.com/photo/2024/06/14/12/15/developer-8829709_1280.jpg" 
                             title="Post Title 3" 
                             description="Yet another brief description of the post content goes here..." 
                             postLink="/post/3" 

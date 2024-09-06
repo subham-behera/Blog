@@ -1,20 +1,20 @@
 [
     {
-        "title": "Sales",
-        "amount": "5000",
+        "title": "Blogs",
+        "amount": "10",
         "sign": "+",
         "change": "+12%",
         "link": "#"
     },
     {
-        "title": "Expenses",
-        "amount": "3000",
+        "title": "Views",
+        "amount": "100",
         "sign": "-",
         "change": "-8%",
         "link": "#"
     },
     {
-        "title": "Profit",
+        "title": "Revenue",
         "amount": "2000",
         "sign": "+",
         "change": "+15%",

@@ -25,7 +25,7 @@
       "summary": "Explore TypeScript and how it enhances JavaScript with type safety.",
       "author": "Alice Johnson",
       "date": "2024-05-15",
-      "image": "https://cdn.pixabay.com/photo/2018/02/23/18/14/computer-3177370_1280.jpg",
+      "image": "https://cdn.pixabay.com/photo/2018/09/16/22/08/software-3682509_1280.jpg",
       "category": "JavaScript",
       "tags": ["TypeScript", "JavaScript", "Programming"]
     },
@@ -35,7 +35,7 @@
       "summary": "A guide to using CSS Grid Layouts for modern, responsive designs.",
       "author": "Bob Lee",
       "date": "2024-04-10",
-      "image": "https://cdn.pixabay.com/photo/2016/11/21/16/03/technology-1839183_1280.jpg",
+      "image": "https://cdn.pixabay.com/photo/2015/09/09/21/12/monitor-933392_1280.jpg",
       "category": "CSS",
       "tags": ["CSS Grid", "Web Design", "Responsive Design"]
     },
@@ -45,7 +45,7 @@
       "summary": "Learn advanced patterns and techniques in React to optimize your applications.",
       "author": "Sarah Kim",
       "date": "2024-03-22",
-      "image": "https://cdn.pixabay.com/photo/2016/08/16/21/17/code-1596660_1280.jpg",
+      "image": "https://cdn.pixabay.com/photo/2019/06/08/05/48/linux-4259595_1280.jpg",
       "category": "React",
       "tags": ["React", "JavaScript", "Advanced"]
     },
@@ -55,49 +55,9 @@
       "summary": "How to build scalable APIs using Node.js and Express.",
       "author": "Michael Brown",
       "date": "2024-02-18",
-      "image": "https://cdn.pixabay.com/photo/2016/11/23/14/45/programming-1857236_1280.jpg",
+      "image": "https://cdn.pixabay.com/photo/2024/03/18/10/50/ai-generated-8640895_1280.jpg",
       "category": "Node.js",
       "tags": ["Node.js", "Express", "API"]
-    },
-    {
-      "id": 7,
-      "title": "Getting Started with Vue.js",
-      "summary": "An introduction to Vue.js for building modern web applications.",
-      "author": "Emily Davis",
-      "date": "2024-01-09",
-      "image": "https://cdn.pixabay.com/photo/2017/07/30/10/34/website-2557444_1280.jpg",
-      "category": "Vue.js",
-      "tags": ["Vue.js", "JavaScript", "Frontend"]
-    },
-    {
-      "id": 8,
-      "title": "Design Systems with Figma",
-      "summary": "Learn how to create and manage design systems using Figma.",
-      "author": "Lucas Miller",
-      "date": "2023-12-05",
-      "image": "https://cdn.pixabay.com/photo/2016/06/13/21/05/office-1453894_1280.jpg",
-      "category": "Design",
-      "tags": ["Figma", "Design Systems", "UI/UX"]
-    },
-    {
-      "id": 9,
-      "title": "Performance Optimization in React",
-      "summary": "Techniques and tools for optimizing performance in React applications.",
-      "author": "Olivia Martinez",
-      "date": "2023-11-20",
-      "image": "https://cdn.pixabay.com/photo/2016/11/15/23/08/code-1822630_1280.jpg",
-      "category": "React",
-      "tags": ["React", "Performance", "Optimization"]
-    },
-    {
-      "id": 10,
-      "title": "Understanding Webpack",
-      "summary": "A comprehensive guide to using Webpack for bundling JavaScript applications.",
-      "author": "Ethan Wilson",
-      "date": "2023-10-12",
-      "image": "https://cdn.pixabay.com/photo/2016/11/18/16/12/programming-1839181_1280.jpg",
-      "category": "JavaScript",
-      "tags": ["Webpack", "JavaScript", "Build Tools"]
     }
   ]
   
