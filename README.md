@@ -1,6 +1,6 @@
-# My Blog Website
+# Blogify
 
-Welcome to My Blog Website! This is a full-featured blogging platform built with React for the frontend and integrates various features to manage and display blog posts.
+Welcome to Blogify! This is a full-featured blogging platform built with React for the frontend and integrates various features to manage and display blog posts.
 
 ## Features
 
@@ -24,12 +24,12 @@ To get started with the development environment:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/subham-behera/Blogify.git
    ```
 
 2. **Navigate to the project directory:**
    ```bash
-   cd your-repository
+   cd Blogify
    ```
 
 3. **Install dependencies:**
