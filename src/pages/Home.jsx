@@ -7,7 +7,7 @@ function Home() {
             {/* Navbar */}
             <header className="bg-gray-800 text-white shadow-lg">
                 <nav className="container mx-auto flex justify-between items-center p-4">
-                    <h1 className="text-3xl font-extrabold tracking-tight">My Blog</h1>
+                    <h1 className="text-3xl font-extrabold tracking-tight">Blogify</h1>
                     <ul className="flex space-x-8">
                         <li><a href="/" className="hover:text-orange-500 transition-colors">Home</a></li>
                         <li><a href="#about" className="hover:text-orange-500 transition-colors">About</a></li>
@@ -21,7 +21,7 @@ function Home() {
             <section id="home" className="relative h-screen bg-cover bg-center" style={{ backgroundImage: 'url(https://cdn.pixabay.com/photo/2017/04/05/01/16/food-2203732_1280.jpg)' }}>
                 <div className="absolute inset-0 bg-gradient-to-r from-black via-transparent to-black opacity-75"></div>
                 <div className="relative z-10 flex flex-col items-center justify-center h-full text-center text-white">
-                    <h1 className="text-5xl md:text-6xl font-extrabold mb-4 leading-tight">Welcome to My Blog</h1>
+                    <h1 className="text-5xl md:text-6xl font-extrabold mb-4 leading-tight">Welcome to My Blogs</h1>
                     <p className="text-lg md:text-2xl mb-6 font-light tracking-wide">Your go-to source for the latest insights and stories.</p>
                     <a href="/post" className="bg-orange-500 hover:bg-orange-400 text-white py-3 px-8 rounded-lg font-semibold transition-transform transform hover:scale-105">
                         Read the Latest Posts
@@ -34,7 +34,7 @@ function Home() {
                 <div className="container mx-auto">
                     <h2 className="text-4xl font-bold mb-4">About Us</h2>
                     <p className="text-gray-700 text-lg leading-relaxed">
-                        My Blog is a platform where you can find insightful articles, tips, and stories across various topics.
+                        Blogify is a platform where you can find insightful articles, tips, and stories across various topics.
                         We are committed to delivering content that informs, inspires, and entertains our readers.
                     </p>
                 </div>
